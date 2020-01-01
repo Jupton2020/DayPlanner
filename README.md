@@ -6,3 +6,6 @@ A day planner that allows a user to save events by the hour. Using standard busi
 ## My Planner
 
 I combined HTML, CSS, and JQuery to create this application.
+
+## Deployed link
+* https://jupton2020.github.io/DayPlanner/
